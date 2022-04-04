@@ -19,4 +19,8 @@ CREDIT --->
  [Joy Offiong] (https://github.com/JoyOffiong)
  [Adeniyi Olanrewaju] (https://github.com/engrmarkk)
  [Farida Sule] (https://github.com/faridasule)
+<<<<<<< HEAD
  [Oluwaseun SODEEQ] (https://github.com/OluwaseunSodeeq)
+=======
+.[Hassan Isah] (https://github.com/ibnisah)
+>>>>>>> fa6ccb72ae18c0fa2c6e134397d9ee6cf1d05d34
